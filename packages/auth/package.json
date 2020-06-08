@@ -1,6 +1,6 @@
 {
   "name": "@rs-vessel-services/auth",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "kenguru33 <bernt.anker@gmail.com>",
   "homepage": "",
@@ -14,7 +14,7 @@
     "start": "ts-node-dev src/index"
   },
   "dependencies": {
-    "@rs-vessel-services/common": "0.0.7",
+    "@rs-vessel-services/common": "^0.0.1",
     "@types/express": "^4.17.6",
     "@types/mongoose": "^5.7.22",
     "@types/node": "^14.0.11",
